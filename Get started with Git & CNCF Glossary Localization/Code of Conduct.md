@@ -40,5 +40,3 @@ Community leaders will ensure the security of the information provided by the st
 
 
 
-**
-
